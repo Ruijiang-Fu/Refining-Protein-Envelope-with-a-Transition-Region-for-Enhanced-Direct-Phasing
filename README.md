@@ -1,0 +1,2 @@
+# Refining-Protein-Envelope-with-a-Transition-Region-for-Enhanced-Direct-Phasing
+Direct method has been tested on solving protein crystal structures directly from the diffraction data. Since direct method starts from random density(or phase), a good strategy to iteratively improve the reconstructed protein envelope is crucial. A transition region was introduced to refine the reconstructed envelope. 
